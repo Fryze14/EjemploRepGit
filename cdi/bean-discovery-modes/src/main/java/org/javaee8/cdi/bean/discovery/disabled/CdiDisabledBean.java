@@ -3,5 +3,5 @@ package org.javaee8.cdi.bean.discovery.disabled;
 public class CdiDisabledBean {
 
 	int Prueba = 2;
-	String Mensaje = "Hola que tal";
+	String Mensaje = "Hola que tal estas";
 }
