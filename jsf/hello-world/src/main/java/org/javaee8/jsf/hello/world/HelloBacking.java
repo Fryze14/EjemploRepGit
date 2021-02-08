@@ -12,6 +12,7 @@ public class HelloBacking {
 
     	String mensaje: "Buenas";
     	return "Hola que tal?";
+
     }
 
 }
