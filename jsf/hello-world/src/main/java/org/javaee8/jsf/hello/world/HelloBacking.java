@@ -10,7 +10,7 @@ public class HelloBacking {
 
     public String getHello() {
 
-    	String mensaje: "Ey";
+    	String mensaje: "Hola que tal";
     	return "Ey";
     }
 
