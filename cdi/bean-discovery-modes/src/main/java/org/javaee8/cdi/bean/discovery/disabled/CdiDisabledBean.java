@@ -6,5 +6,5 @@ public class CdiDisabledBean {
 	String mensaje = "Hola esta es una prueba del reporitorio 2";
 
 	int Prueba = 2;
-	String Mensaje = "Hola esta es una prueba del reporitorio 1";
+	String Mensaje = "Hola esta es una prueba del repsiritorio 1";
 }
